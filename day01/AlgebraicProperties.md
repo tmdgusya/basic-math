@@ -33,6 +33,8 @@ $a \diamond x = e$
 
 즉, `x` 는 $\diamond$ 연산에 대한 inverse 이다.
 
+위의 법칙을 공부하면서 느낀점은, 예전에는 수학을 Concrete 에 가까운 Layer 에서 이해를 했지만, 이제는 약간 조금 더 abstract Layer 까지 올려서 이해를 하는게 좋겠다는 생각이 많이 들었다.
+
 ## Variables And Contant
 
 - **Constant**: 계산 중에 절대 변하지 않는 값.
